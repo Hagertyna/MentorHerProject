@@ -16,5 +16,5 @@ app.get("getUsers",(req,res) =>{
     
 })
 app.listen(3001, () => {
-    console.log("Server Connected")
+    console.log("mongoDB Server Connected ")
 })
