@@ -23,7 +23,7 @@ app.listen(3001, () => {
 })
 try{
     UserModel.create({
-        username: "abcdef",
+        username: "abcde",
         password: "123",
     });
 }
